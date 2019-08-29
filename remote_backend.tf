@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "dhruvbakshi-sandbox"
     workspaces {
-      name = "YOURWORKSPACE"
+      name = "hashicat-aws"
     }
   }
 }
